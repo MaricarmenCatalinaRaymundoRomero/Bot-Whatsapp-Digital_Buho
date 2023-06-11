@@ -206,3 +206,8 @@ client.on('message', message => {
 });
 
 ```
+
++ Paso 8:
+    * Diseñamos una pagina web para que los clientes puedan escanear el qr y puedan chatear con el bot. Tambien poder hacer sus consultas:
+    
+![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/08336de1-e52e-43a8-ad12-ccdd685a82ce)
