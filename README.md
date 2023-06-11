@@ -211,3 +211,9 @@ client.on('message', message => {
     * Diseñamos una pagina web para que los clientes puedan escanear el qr y puedan chatear con el bot. Tambien poder hacer sus consultas:
     
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/08336de1-e52e-43a8-ad12-ccdd685a82ce)
+
+
+####RESULTADO
+
+![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/f0b6de6e-0cdf-489e-9196-d3e80223e14e)
+
