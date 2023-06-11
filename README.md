@@ -213,7 +213,7 @@ client.on('message', message => {
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/08336de1-e52e-43a8-ad12-ccdd685a82ce)
 
 
-# RESULTADO
+### RESULTADO
 
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/f0b6de6e-0cdf-489e-9196-d3e80223e14e)
 
