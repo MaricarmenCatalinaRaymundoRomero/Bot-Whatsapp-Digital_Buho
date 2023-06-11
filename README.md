@@ -2,6 +2,8 @@
 
 -Vamos a utilizar la libreria "whatsapp-web.js" (https://wwebjs.dev/guide/)
 
+###### Tener instlado NodeJS v12
+
 + Paso 1: 
     * Creamos una carpeta con nombre de bot-whatsapp
     * Entramos la carpeta en forma terminal.
@@ -15,5 +17,8 @@
    
    ![,,,,](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/47126f02-8522-4477-a1d8-f0126f616ea6)
 
++ Paso 3:
+    * Creamos un index.js para colocar ahi nuestro proyecto
+    * Presionamos new terminal y dentro de ella instalamos:
     
 
