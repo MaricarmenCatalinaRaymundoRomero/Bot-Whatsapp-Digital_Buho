@@ -1,0 +1,58 @@
+/* Estilos CSS */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #D9D9B1 ;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+    color: #fff;
+    background-color:#3FA147 ;
+    padding: 20px;
+    margin-top: 0;
+  }
+
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+  }
+  .content {
+    text-align: center;
+    margin: 0%;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .small-image {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 0 10px; 
+  }
+  .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .qr{
+    width: 220px;
+    height: 220px;
+  }
+  .whatsapp-button {
+    display: inline-block;
+    background-color: #3FA147;
+    color: #FFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+  }
