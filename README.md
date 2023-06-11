@@ -8,7 +8,7 @@
     * Creamos una carpeta con nombre de bot-whatsapp
     * Entramos la carpeta en forma terminal.
 
-      ![ffhfgh](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/007677e4-1464-46e8-ba56-505c56f14a4b)
+    ![ffhfgh](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/007677e4-1464-46e8-ba56-505c56f14a4b)
 
 
 + Paso 2:
