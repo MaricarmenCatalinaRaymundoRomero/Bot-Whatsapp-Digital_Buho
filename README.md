@@ -17,7 +17,7 @@
    
    ![,,,,](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/47126f02-8522-4477-a1d8-f0126f616ea6)
 
-    * Se va instalar 
+    * Este comando descargará e instalará el paquete whatsapp-web.js desde el registro de npm y lo agregará a la carpeta node_modules de tu proyecto.
 + Paso 3:
     * Creamos un index.js para colocar ahi nuestro proyecto
     * Dentro de index.js escribimos.
