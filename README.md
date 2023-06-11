@@ -13,15 +13,16 @@
 
 + Paso 2:
     * Nos saldra en visual studio code estando dentro de la carpeta creada.
-    * Presionamos new terminal y dentro de ella instalamos:
+    * Presionamos new terminal y dentro de ella escribimos:
    
    ![,,,,](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/47126f02-8522-4477-a1d8-f0126f616ea6)
 
+    * Se va instalar 
 + Paso 3:
     * Creamos un index.js para colocar ahi nuestro proyecto
     * Dentro de index.js escribimos.
     
     ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/e8c175af-5ffe-4c57-9342-93b66ca4da2b)
-
+ 
     
 
