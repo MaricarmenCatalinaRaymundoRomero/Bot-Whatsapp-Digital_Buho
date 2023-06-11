@@ -84,7 +84,7 @@ client.initialize();
     const lowerCaseBody = message.body.toLowerCase();
 ```
 
- + Paso 6:
+ + Paso 7:
  
      * Los mensajes recibidos tienen una función de conveniencia que le permite responder directamente a ellos a través de la función de respuesta de WhatsApp. Esto mostrará el mensaje citado sobre la respuesta.
      
@@ -97,7 +97,7 @@ client.on('message', message => {
 
 ```
 
- + Paso 7:
+ + Paso 8:
      * Ahora diseñamos a nuestro estilo.
      * Asi quedo:
 ```html     
@@ -207,7 +207,7 @@ client.on('message', message => {
 
 ```
 
-+ Paso 8:
++ Paso 9:
     * Diseñamos una pagina web para que los clientes puedan escanear el qr y puedan chatear con el bot. Tambien poder hacer sus consultas:
     
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/08336de1-e52e-43a8-ad12-ccdd685a82ce)
