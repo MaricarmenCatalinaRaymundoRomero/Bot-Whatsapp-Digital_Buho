@@ -48,6 +48,9 @@
    ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/Bot-Whatsapp/assets/129924045/5cf96b61-ced0-4168-8309-2a54203956ab)
  
  + Paso 6:
-    * Después de escanear este código QR, el cliente debe estar autorizado y debe ver un Client is ready! mensaje impreso.
-    * Dentro de `<index.js>` escribimos.
+    * Ahora que podemos conectarnos a WhatsApp, es hora de escuchar los mensajes entrantes.
+    client.on('message', message => {
+    const lowerCaseBody = message.body.toLowerCase();
+    
+    * 
 
